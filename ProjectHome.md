@@ -1,0 +1,1 @@
+These is an android based project were user can control their PC via mobile.
